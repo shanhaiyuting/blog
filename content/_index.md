@@ -1,41 +1,31 @@
 ---
-title: Introduction
+title: 山海屿亭
 type: docs
 ---
 
-# Acerbo datus maxime
+# 愿山海广阔，有一屿可寄身，有一亭可静心
 
-{{< columns >}}
-## Astris ipse furtiva
+## 关于网站
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+这个网站主要是个人用来记录一些技术要点，梳理知识体系
 
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+因为期待写的文章能给看到的人一些帮助和启发
 
 
-## Tempora nisi nunc
+## 网站内容
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+云原生相关的技术是这里主要想要讨论的方向
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+由于本人是在比较早的时候就接触虚拟化相关的知识
 
-## Locis suis novi cum suoque decidit eadem
+所以会更偏向操作系统层面的更多一些
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+网站中也会有一些个人对人生、工作的一些思考和感悟
+
+期待能在不远的将来，能够将零散的知识串联成系列性的文章
+
+
+## 系列内容
+
+待添加
+
