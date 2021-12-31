@@ -27,5 +27,9 @@ type: docs
 
 ## 系列内容
 
-待添加
+[**AnolisOS**]({{< relref "/docs/anolisos" >}})
+
+[**在离线混合部署**]({{< relref "docs/colocation" >}})
+
+
 
