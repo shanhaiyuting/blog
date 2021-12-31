@@ -4,7 +4,7 @@ baseURL = 'https://shanhaiyuting.cn/'
 title = '山海屿亭'
 theme = 'hugo-book'
 
-googleAnalytics = "G-R7BY67Y2TY"
+#googleAnalytics = "G-R7BY67Y2TY"
 
 # Book configuration
 disablePathToLower = true
