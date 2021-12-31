@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 bookFlatSection: true
 title: "在离线混合部署"
 ---
