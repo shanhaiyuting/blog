@@ -31,5 +31,7 @@ type: docs
 
 [**在离线混合部署**]({{< relref "docs/colocation" >}})
 
+[**Kubernetes**]({{< relref "docs/kubernetes" >}})
+
 
 

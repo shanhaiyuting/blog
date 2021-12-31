@@ -1,7 +1,7 @@
 ---
-weight: 10
+weight: 3
 bookFlatSection: true
-title: "Example Site"
+title: "Kubernetes"
 ---
 
 # Introduction
